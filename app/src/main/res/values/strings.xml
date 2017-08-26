@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IIITD</string>
+    <string name="title_activity_register">Register</string>
+    <string name="google_place_api"></string>
+</resources>
